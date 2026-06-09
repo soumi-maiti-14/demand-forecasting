@@ -121,7 +121,7 @@ All five demand series were confirmed stationary by both ADF and KPSS tests — 
 
 ```
 ├── Demand_forecasting.ipynb             # Main analysis notebook
-├── demand_forecasting.csv               # Raw dataset
+├── Demand_forecasting.csv               # Raw dataset
 ├── Demand_forecasting_Report.docx       # Raw dataset
 ├── README.md                            # Project documentation
 ```
@@ -131,6 +131,6 @@ All five demand series were confirmed stationary by both ADF and KPSS tests — 
 ## Author
 
 Soumi Maiti
-MBA — Business Analytics & Systems Management, IISWBM (University of Calcutta)
+MBA — Business Analytics & Systems Management
 B.Tech — Electronics & Communication Engineering
-GitHub: github.com/soumi-maiti-14
+LinkedIn - www.linkedin.com/in/soumi-maiti-2k26
